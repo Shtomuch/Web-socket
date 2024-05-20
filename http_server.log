@@ -1,0 +1,15 @@
+2024-05-20 21:59:11,515 - http_logger - INFO - Started HTTP server on 0.0.0.0:3000
+2024-05-20 22:07:21,618 - http_logger - INFO - Started HTTP server on 0.0.0.0:3000
+2024-05-20 22:07:25,287 - http_logger - INFO - Sent HTML file: message.html with status: 200
+2024-05-20 22:07:25,288 - http_logger - INFO - Handled GET request for path: /message
+2024-05-20 22:07:25,325 - http_logger - INFO - Sent static file: /style.css
+2024-05-20 22:07:25,325 - http_logger - INFO - Handled GET request for path: /style.css
+2024-05-20 22:07:25,326 - http_logger - INFO - Sent static file: /logo.png
+2024-05-20 22:07:25,326 - http_logger - INFO - Handled GET request for path: /logo.png
+2024-05-20 22:07:33,394 - http_logger - INFO - Received POST request with data: b'username=ShtomaDenys&message=Hello'
+2024-05-20 22:07:33,396 - http_logger - INFO - Sent HTML file: message.html with status: 200
+2024-05-20 22:07:33,396 - http_logger - INFO - Handled GET request for path: /message
+2024-05-20 22:07:33,402 - http_logger - INFO - Sent static file: /style.css
+2024-05-20 22:07:33,402 - http_logger - INFO - Handled GET request for path: /style.css
+2024-05-20 22:07:33,402 - http_logger - INFO - Sent static file: /logo.png
+2024-05-20 22:07:33,402 - http_logger - INFO - Handled GET request for path: /logo.png

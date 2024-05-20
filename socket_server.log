@@ -1,0 +1,5 @@
+2024-05-20 21:59:11,501 - socket_logger - INFO - Started socket server on 127.0.0.1:5000
+2024-05-20 22:07:21,611 - socket_logger - INFO - Started socket server on 127.0.0.1:5000
+2024-05-20 22:07:33,394 - socket_logger - INFO - Received message from ('127.0.0.1', 52362): b'username=ShtomaDenys&message=Hello'
+2024-05-20 22:07:33,394 - socket_logger - INFO - Received data to save: username=ShtomaDenys&message=Hello
+2024-05-20 22:07:33,396 - socket_logger - INFO - Data saved successfully: {'username': 'ShtomaDenys', 'message': 'Hello'}
